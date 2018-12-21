@@ -1,0 +1,17 @@
+INSTALL
+aclocal.m4
+autom4te.cache/
+compile
+configure
+depcomp
+install-sh
+missing
+hello
+Makefile
+Makefile.in
+config.log
+config.status
+.deps/
+.dirstamp
+src/hello.o
+
