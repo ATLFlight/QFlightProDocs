@@ -12,7 +12,7 @@ inside your development docker container.  Note that you'll have to run ```sourc
 Compatible packages:
 * Vision Packages 
   * [snap_cam_ros](https://github.com/ATLFlight/snap_cam_ros)
-  * [snap_dfs](https://github.com/ATLFlight/drf-ros-example)
+  * [snap_dfs](https://github.com/ATLFlight/dfs-ros-example)
   * [snap_vio](https://github.com/ATLFlight/snap_vio)
   * [snap_msgs](https://github.com/ATLFlight/snap_msgs)
   * [snap_cpa](https://github.com/ATLFlight/snap_cpa)
