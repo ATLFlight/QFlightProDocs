@@ -16,12 +16,10 @@ Compatible packages:
   * [snap_vio](https://github.com/ATLFlight/snap_vio)
   * [snap_msgs](https://github.com/ATLFlight/snap_msgs)
   * [snap_cpa](https://github.com/ATLFlight/snap_cpa)
+  * [snap_cam_manager](https://github.com/ATLFlight/snap_cam_manager)  (ROS-independent)
 * Other packages
   * [snap_imu](https://github.com/ATLFlight/snap_imu)
   * [qflight_descriptions](https://github.com/ATLFlight/qflight_descriptions)
   * [snav_ros](https://github.com/ATLFlight/snav_ros)
   * [snav_msgs](https://github.com/ATLFlight/snav_msgs)
-
-* Non-ROS compatible software
-  * [snap_cam_manager](https://github.com/ATLFlight/snap_cam_manager)
-  * [snav_fci](https://github.com/ATLFlight/snav_fci)
+  * [snav_fci](https://github.com/ATLFlight/snav_fci)  
