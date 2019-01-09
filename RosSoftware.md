@@ -3,8 +3,11 @@
 Nearly all of the ROS packages released for Qualcomm Flight are compatible with Qualcommm Flight Pro.  You simply need to add a cmake variable to your build command inside the docker container.
 
 ```
-catkin_make -DQC_SOC_TARGET=APQ8096
+catkin_make -DCMAKE_BUILD_TYPE=Release -DQC_SOC_TARGET=APQ8096 install
 ```
+
+inside your development docker container.  Note that you'll have to run ```source /opt/ros/indigo/setup.bash``` and also ```source devel/setup.bash``` after generating your msh headers (the first run of catkin_make).
+
 
 Compatible packages:
 * Vision Packages 
